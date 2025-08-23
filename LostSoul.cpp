@@ -24,8 +24,41 @@ void setIO(){
 #endif
 }
 
-void solve(){
+int getAns(vi &a,vi &b,int n){
+    int ans = 0;
+    set<int> st1,st2;
+    st1.insert(a[n-1]);
+    st2.insert(b[n-1]);
+    for (int i = n-2; i >= 0; --i) {
+        if (st1.count(a[i])){
+            ans = max(ans,i+1);
+            break;
+        }
+        st1.insert(b[i+1]);
+        st1.insert(a[i]);
+    }
+    for (int i = n-2; i >= 0; --i) {
+        if (st2.count(b[i])){
+            ans = max(ans,i+1);
+            break;
+        }
+        st2.insert(a[i+1]);
+        st2.insert(b[i]);
+    }
+    return ans;
+}
 
+void solve(){
+    int n;cin >> n;
+    vi a(n),b(n);
+    rep(i,0,n)cin >> a[i];rep(i,0,n)cin >> b[i];
+    int ans = 0;
+    int idx = -1;
+    for (int i = 0; i < n; ++i) {
+        if (a[i] == b[i]) idx = i;
+    }
+    ans = getAns(a,b,n);
+    cout << max(ans,idx+1) << endl;
 }
 
 int32_t main() {

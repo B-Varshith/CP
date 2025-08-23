@@ -345,14 +345,78 @@ add_executable(. StringMaximizing.cpp main.cpp "wierd Problem.cpp"
         EqualizeTheArray.cpp
         BfsForGcdChecking.cpp
         LostSoul.cpp
+        FewerBatteries.cpp
+        SphereTransmission.cpp
+        Math.cpp
+        MeaningLessOperation.cpp
+        floorAndMod.cpp
+        vasyaAndpateyaGame.cpp
+        contestDIV3.cpp
+        InteractiveProblem.cpp
+        contestCC1.cpp
+        chocolateBunnyInteractive.cpp
+        GuessingTheGreatest.cpp
+        ArrayWalk.cpp
+        GoodSubarrays.cpp
+        HackingNumbers.cpp
+        AdvertisingAgency.cpp
+        planarReflections.cpp
+        ContestDIV2_1.cpp
+        strangeTest.cpp
+        consecutiveSubsequence.cpp
+        tripToOlympiad.cpp
+        BitWiseOper.cpp
+        Bewitching.cpp
+        ParsasTrees.cpp
+        InfectedTree.cpp
+        GardeningFrnds.cpp
+        TreeJumps.cpp
+        eraseAndExtend.cpp
+        DeletingDivisors.cpp
+        Starters194.cpp
+        SayNoTopalindromes.cpp
+        makeThemEquall.cpp
+        Starters195.cpp
+        div3Cf1037.cpp
+        MaxProduct.cpp
+        fixedPointGuessing.cpp
+        MinimumTies.cpp
+        omkarAndbaseBall.cpp
+        juryMeeting.cpp
+        maximizeManhantten.cpp
+        codechefDiv2CT.cpp
+        xeniaAndBitOperations.cpp
+        serjaAndBrackets.cpp
+        simplrPermutation.cpp
+        TREEvalidateBS.cpp
+        PheonixAndSocks.cpp
+        MinimumGridPath.cpp
+        ResotingPermutation.cpp
+        DecreseTheSumOfDigits.cpp
+        BinaryStringTosubsequence.cpp
+        StayOnMirror.cpp
+        Inversions.cpp
+        SumOfLDS.cpp
+        PashmakAndparmidas.cpp
+        InterestingArray.cpp
+        Arcology.cpp
+        YouSoaredAfar.cpp
+        Split.cpp
+        DistanceInTrees.cpp
+        splitIntosets.cpp
+        Subordinates.cpp
+        Treematching.cpp
+        SponserUrproblems.cpp
+        Humaniod.cpp
+        Div3Contest4.cpp
+        BitOperations.cpp
+        DimaAndBadXOR.cpp
+        contest199CC.cpp
+        SubsetMultiplication.cpp
 )
 
 add_executable(varsh
-#        UnstableString.cpp
-#        WhereIsPizza.cpp
-#        Workout.cpp
-#        LongtailHedgehog.cpp
-#        cf1033.cpp
-        BfsForGcdChecking.cpp
-        LostSoul.cpp
+#        SponserUrproblems.cpp
+#        DimaAndBadXOR.cpp
+        SubsetMultiplication.cpp
 )

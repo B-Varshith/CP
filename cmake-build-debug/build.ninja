@@ -2131,6 +2131,414 @@ build CMakeFiles/..dir/LostSoul.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/U
   OBJECT_DIR = CMakeFiles\..dir
   OBJECT_FILE_DIR = CMakeFiles\..dir
 
+build CMakeFiles/..dir/FewerBatteries.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/FewerBatteries.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\FewerBatteries.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/SphereTransmission.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/SphereTransmission.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\SphereTransmission.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/Math.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/Math.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\Math.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/MeaningLessOperation.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/MeaningLessOperation.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\MeaningLessOperation.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/floorAndMod.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/floorAndMod.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\floorAndMod.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/vasyaAndpateyaGame.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/vasyaAndpateyaGame.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\vasyaAndpateyaGame.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/contestDIV3.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/contestDIV3.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\contestDIV3.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/InteractiveProblem.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/InteractiveProblem.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\InteractiveProblem.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/contestCC1.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/contestCC1.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\contestCC1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/chocolateBunnyInteractive.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/chocolateBunnyInteractive.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\chocolateBunnyInteractive.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/GuessingTheGreatest.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/GuessingTheGreatest.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\GuessingTheGreatest.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/ArrayWalk.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/ArrayWalk.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\ArrayWalk.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/GoodSubarrays.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/GoodSubarrays.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\GoodSubarrays.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/HackingNumbers.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/HackingNumbers.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\HackingNumbers.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/AdvertisingAgency.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/AdvertisingAgency.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\AdvertisingAgency.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/planarReflections.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/planarReflections.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\planarReflections.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/ContestDIV2_1.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/ContestDIV2_1.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\ContestDIV2_1.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/strangeTest.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/strangeTest.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\strangeTest.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/consecutiveSubsequence.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/consecutiveSubsequence.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\consecutiveSubsequence.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/tripToOlympiad.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/tripToOlympiad.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\tripToOlympiad.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/BitWiseOper.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/BitWiseOper.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\BitWiseOper.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/Bewitching.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/Bewitching.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\Bewitching.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/ParsasTrees.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/ParsasTrees.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\ParsasTrees.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/InfectedTree.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/InfectedTree.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\InfectedTree.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/GardeningFrnds.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/GardeningFrnds.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\GardeningFrnds.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/TreeJumps.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/TreeJumps.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\TreeJumps.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/eraseAndExtend.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/eraseAndExtend.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\eraseAndExtend.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/DeletingDivisors.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/DeletingDivisors.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\DeletingDivisors.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/Starters194.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/Starters194.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\Starters194.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/SayNoTopalindromes.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/SayNoTopalindromes.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\SayNoTopalindromes.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/makeThemEquall.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/makeThemEquall.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\makeThemEquall.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/Starters195.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/Starters195.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\Starters195.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/div3Cf1037.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/div3Cf1037.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\div3Cf1037.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/MaxProduct.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/MaxProduct.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\MaxProduct.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/fixedPointGuessing.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/fixedPointGuessing.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\fixedPointGuessing.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/MinimumTies.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/MinimumTies.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\MinimumTies.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/omkarAndbaseBall.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/omkarAndbaseBall.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\omkarAndbaseBall.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/juryMeeting.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/juryMeeting.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\juryMeeting.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/maximizeManhantten.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/maximizeManhantten.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\maximizeManhantten.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/codechefDiv2CT.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/codechefDiv2CT.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\codechefDiv2CT.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/xeniaAndBitOperations.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/xeniaAndBitOperations.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\xeniaAndBitOperations.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/serjaAndBrackets.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/serjaAndBrackets.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\serjaAndBrackets.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/simplrPermutation.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/simplrPermutation.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\simplrPermutation.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/TREEvalidateBS.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/TREEvalidateBS.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\TREEvalidateBS.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/PheonixAndSocks.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/PheonixAndSocks.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\PheonixAndSocks.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/MinimumGridPath.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/MinimumGridPath.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\MinimumGridPath.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/ResotingPermutation.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/ResotingPermutation.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\ResotingPermutation.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/DecreseTheSumOfDigits.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/DecreseTheSumOfDigits.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\DecreseTheSumOfDigits.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/BinaryStringTosubsequence.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/BinaryStringTosubsequence.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\BinaryStringTosubsequence.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/StayOnMirror.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/StayOnMirror.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\StayOnMirror.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/Inversions.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/Inversions.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\Inversions.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/SumOfLDS.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/SumOfLDS.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\SumOfLDS.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/PashmakAndparmidas.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/PashmakAndparmidas.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\PashmakAndparmidas.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/InterestingArray.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/InterestingArray.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\InterestingArray.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/Arcology.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/Arcology.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\Arcology.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/YouSoaredAfar.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/YouSoaredAfar.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\YouSoaredAfar.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/Split.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/Split.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\Split.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/DistanceInTrees.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/DistanceInTrees.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\DistanceInTrees.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/splitIntosets.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/splitIntosets.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\splitIntosets.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/Subordinates.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/Subordinates.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\Subordinates.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/Treematching.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/Treematching.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\Treematching.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/SponserUrproblems.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/SponserUrproblems.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\SponserUrproblems.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/Humaniod.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/Humaniod.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\Humaniod.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/Div3Contest4.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/Div3Contest4.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\Div3Contest4.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/BitOperations.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/BitOperations.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\BitOperations.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/DimaAndBadXOR.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/DimaAndBadXOR.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\DimaAndBadXOR.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/contest199CC.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/contest199CC.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\contest199CC.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
+build CMakeFiles/..dir/SubsetMultiplication.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/SubsetMultiplication.cpp || cmake_object_order_depends_target_.
+  DEP_FILE = CMakeFiles\..dir\SubsetMultiplication.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\..dir
+  OBJECT_FILE_DIR = CMakeFiles\..dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target .
@@ -2139,7 +2547,7 @@ build CMakeFiles/..dir/LostSoul.cpp.obj: CXX_COMPILER__.2e_unscanned_Debug C$:/U
 #############################################
 # Link the executable ..exe
 
-build ..exe: CXX_EXECUTABLE_LINKER__.2e_Debug CMakeFiles/..dir/StringMaximizing.cpp.obj CMakeFiles/..dir/main.cpp.obj CMakeFiles/..dir/wierd_Problem.cpp.obj CMakeFiles/..dir/JellyFish.cpp.obj CMakeFiles/..dir/stringsMaking.cpp.obj CMakeFiles/..dir/Quests.cpp.obj CMakeFiles/..dir/CollectingGame.cpp.obj CMakeFiles/..dir/BrMeast.cpp.obj CMakeFiles/..dir/modification.cpp.obj CMakeFiles/..dir/Aquarium.cpp.obj CMakeFiles/..dir/twoDimMinDis.cpp.obj CMakeFiles/..dir/addMargin.cpp.obj CMakeFiles/..dir/tenzingBooks.cpp.obj CMakeFiles/..dir/minimumSkibusAndOhioIMP.cpp.obj CMakeFiles/..dir/rough.cpp.obj CMakeFiles/..dir/maximumSum.cpp.obj CMakeFiles/..dir/LunaticContent.cpp.obj CMakeFiles/..dir/countingOrders.cpp.obj CMakeFiles/..dir/sortTheSubarray.cpp.obj CMakeFiles/..dir/LargestRectArea.cpp.obj CMakeFiles/..dir/SEGMENTTREES.cpp.obj CMakeFiles/..dir/subsequenceAddtion.cpp.obj CMakeFiles/..dir/ROUGHS.cpp.obj CMakeFiles/..dir/PairProgramming.cpp.obj CMakeFiles/..dir/DivisionBy2Permutation.cpp.obj CMakeFiles/..dir/CubeExists.cpp.obj CMakeFiles/..dir/LongestDivisorIntervel.cpp.obj CMakeFiles/..dir/sameDifferences.cpp.obj CMakeFiles/..dir/nonAdjacentMatrix.cpp.obj CMakeFiles/..dir/redBluePattern.cpp.obj CMakeFiles/..dir/negandPos.cpp.obj CMakeFiles/..dir/teleporters.cpp.obj CMakeFiles/..dir/MinPrimestoMakesum.cpp.obj CMakeFiles/..dir/Rough2.cpp.obj CMakeFiles/..dir/groupsTravel.cpp.obj CMakeFiles/..dir/theaterSquare.cpp.obj CMakeFiles/..dir/maxMinSum.cpp.obj CMakeFiles/..dir/transfusion.cpp.obj CMakeFiles/..dir/contestDIV2.cpp.obj CMakeFiles/..dir/triplePrime.cpp.obj CMakeFiles/..dir/tPrime.cpp.obj CMakeFiles/..dir/RowGCD.cpp.obj CMakeFiles/..dir/primeNumber.cpp.obj CMakeFiles/..dir/goodSequence.cpp.obj CMakeFiles/..dir/sequence.cpp.obj CMakeFiles/..dir/DivisionBy2Andpermu.cpp.obj CMakeFiles/..dir/strangeSub.cpp.obj CMakeFiles/..dir/killMonster.cpp.obj CMakeFiles/..dir/mirrorString.cpp.obj CMakeFiles/..dir/paintTheArray.cpp.obj CMakeFiles/..dir/gcdLength.cpp.obj CMakeFiles/..dir/TMT.cpp.obj CMakeFiles/..dir/YetAnotherVardDeck.cpp.obj CMakeFiles/..dir/updateFiles.cpp.obj CMakeFiles/..dir/LongJumps.cpp.obj CMakeFiles/..dir/AllAresame.cpp.obj CMakeFiles/..dir/LIS.cpp.obj CMakeFiles/..dir/elementryParticals.cpp.obj CMakeFiles/..dir/shiftingSort.cpp.obj CMakeFiles/..dir/kalindrome.cpp.obj CMakeFiles/..dir/newColony.cpp.obj CMakeFiles/..dir/specialNumber.cpp.obj CMakeFiles/..dir/partialReplacement.cpp.obj CMakeFiles/..dir/Ksubarrays.cpp.obj CMakeFiles/..dir/dungeon.cpp.obj CMakeFiles/..dir/SumOfcubes.cpp.obj CMakeFiles/..dir/NezzarandLuckyNumber.cpp.obj CMakeFiles/..dir/contestDiv35th.cpp.obj CMakeFiles/..dir/gameOnRanges.cpp.obj CMakeFiles/..dir/pleasantPairs.cpp.obj CMakeFiles/..dir/palindromeGame.cpp.obj CMakeFiles/..dir/stableGroups.cpp.obj CMakeFiles/..dir/MochaHiking.cpp.obj CMakeFiles/..dir/penalty.cpp.obj CMakeFiles/..dir/kLCM.cpp.obj CMakeFiles/..dir/MEXonStrings.cpp.obj CMakeFiles/..dir/bisSumAnd0.cpp.obj CMakeFiles/..dir/poisnedDagger.cpp.obj CMakeFiles/..dir/WrongAddtion.cpp.obj CMakeFiles/..dir/TwoColors.cpp.obj CMakeFiles/..dir/CoruptedArray.cpp.obj CMakeFiles/..dir/cardaConstructions.cpp.obj CMakeFiles/..dir/EvenOddGame.cpp.obj CMakeFiles/..dir/Equalisation.cpp.obj CMakeFiles/..dir/MakeThemEqual.cpp.obj CMakeFiles/..dir/ArrayColoring.cpp.obj CMakeFiles/..dir/DeleteTwoElements.cpp.obj CMakeFiles/..dir/HomoShopping.cpp.obj CMakeFiles/..dir/ABPalindrome.cpp.obj CMakeFiles/..dir/pursuit.cpp.obj CMakeFiles/..dir/kthNonDivisablrByN.cpp.obj CMakeFiles/..dir/MArray.cpp.obj CMakeFiles/..dir/Jumps.cpp.obj CMakeFiles/..dir/FliptheBits.cpp.obj CMakeFiles/..dir/Oddselecetion.cpp.obj CMakeFiles/..dir/AlternatingSubsequence.cpp.obj CMakeFiles/..dir/MakingPalindromeInoneLetter.cpp.obj CMakeFiles/..dir/sequenceTransfer.cpp.obj CMakeFiles/..dir/replaceAndkeepSorted.cpp.obj CMakeFiles/..dir/winePickup.cpp.obj CMakeFiles/..dir/contest1.cpp.obj CMakeFiles/..dir/q800.cpp.obj CMakeFiles/..dir/boatsCompition.cpp.obj CMakeFiles/..dir/xxxx.cpp.obj CMakeFiles/..dir/DistrictConnection.cpp.obj CMakeFiles/..dir/makorItGood.cpp.obj CMakeFiles/..dir/ternarySearch.cpp.obj CMakeFiles/..dir/RockandLever.cpp.obj CMakeFiles/..dir/ternaryXor.cpp.obj CMakeFiles/..dir/RedAndBlue.cpp.obj CMakeFiles/..dir/ThreeActivities.cpp.obj CMakeFiles/..dir/makeAllequal.cpp.obj CMakeFiles/..dir/PlusMinusPermutation.cpp.obj CMakeFiles/..dir/AssemblyViaMinimus.cpp.obj CMakeFiles/..dir/vikaAndBridge.cpp.obj CMakeFiles/..dir/contrastValue.cpp.obj CMakeFiles/..dir/pushingBalls.cpp.obj CMakeFiles/..dir/playingCasino.cpp.obj CMakeFiles/..dir/catCycle.cpp.obj CMakeFiles/..dir/doraAndSearch.cpp.obj CMakeFiles/..dir/Matryoshkas.cpp.obj CMakeFiles/..dir/scuza.cpp.obj CMakeFiles/..dir/removingSmallestMultiplies.cpp.obj CMakeFiles/..dir/friendsAndRestaurant.cpp.obj CMakeFiles/..dir/virus.cpp.obj CMakeFiles/..dir/MirrorGrid.cpp.obj CMakeFiles/..dir/Binarydeque.cpp.obj CMakeFiles/..dir/stongeAgeProblen.cpp.obj CMakeFiles/..dir/Dolcavita.cpp.obj CMakeFiles/..dir/differentialSorting.cpp.obj CMakeFiles/..dir/sameParitySummands.cpp.obj CMakeFiles/..dir/reverseBinaryStrings.cpp.obj CMakeFiles/..dir/AccurateLee.cpp.obj CMakeFiles/..dir/GcdPartition.cpp.obj CMakeFiles/..dir/CoPrime.cpp.obj CMakeFiles/..dir/DemoDogs.cpp.obj CMakeFiles/..dir/DifferenceOfGCDs.cpp.obj CMakeFiles/..dir/AndSorting.cpp.obj CMakeFiles/..dir/AperfectlybalancedString.cpp.obj CMakeFiles/..dir/eatingCadies.cpp.obj CMakeFiles/..dir/SubstractionOperaion.cpp.obj CMakeFiles/..dir/FunWithSubarrays.cpp.obj CMakeFiles/..dir/Restoration.cpp.obj CMakeFiles/..dir/BuildPermutation.cpp.obj CMakeFiles/..dir/Jogging.cpp.obj CMakeFiles/..dir/laterns.cpp.obj CMakeFiles/..dir/YoungExplore.cpp.obj CMakeFiles/..dir/MinimalCost.cpp.obj CMakeFiles/..dir/sortedDifference.cpp.obj CMakeFiles/..dir/seqWithDigits.cpp.obj CMakeFiles/..dir/LevelStatistics.cpp.obj CMakeFiles/..dir/NighbourGrid.cpp.obj CMakeFiles/..dir/waterSlide.cpp.obj CMakeFiles/..dir/graphDiameter.cpp.obj CMakeFiles/..dir/twoLargeBags.cpp.obj CMakeFiles/..dir/commonPrefixes.cpp.obj CMakeFiles/..dir/JhoonyAndHoobies.cpp.obj CMakeFiles/..dir/stairs.cpp.obj CMakeFiles/..dir/NoOfpairs.cpp.obj CMakeFiles/..dir/coinsRows.cpp.obj CMakeFiles/..dir/nastiaAndGoodArray.cpp.obj CMakeFiles/..dir/ArrayAndoperations.cpp.obj CMakeFiles/..dir/divisablePairs.cpp.obj CMakeFiles/..dir/findDifferentOnes.cpp.obj CMakeFiles/..dir/amke2Power.cpp.obj CMakeFiles/..dir/SittingGame.cpp.obj CMakeFiles/..dir/coGrowingSequence.cpp.obj CMakeFiles/..dir/TableFitting.cpp.obj CMakeFiles/..dir/paprikaAndPermutation.cpp.obj CMakeFiles/..dir/BlurredPermutation.cpp.obj CMakeFiles/..dir/slayTheDragon.cpp.obj CMakeFiles/..dir/Inflation.cpp.obj CMakeFiles/..dir/reverseString.cpp.obj CMakeFiles/..dir/TPrimes.cpp.obj CMakeFiles/..dir/ExpensiveNumber.cpp.obj CMakeFiles/..dir/simpleStrings.cpp.obj CMakeFiles/..dir/ProductOfThree.cpp.obj CMakeFiles/..dir/AvgSleepTime.cpp.obj CMakeFiles/..dir/JusteatIt.cpp.obj CMakeFiles/..dir/CanineProperty.cpp.obj CMakeFiles/..dir/SocialDistancesSubsequence.cpp.obj CMakeFiles/..dir/RomanticGlasses.cpp.obj CMakeFiles/..dir/MakeItAlternating.cpp.obj CMakeFiles/..dir/DivideAndEqualize.cpp.obj CMakeFiles/..dir/ScoringSubsequence.cpp.obj CMakeFiles/..dir/snowflakes.cpp.obj CMakeFiles/..dir/StrongVertices.cpp.obj CMakeFiles/..dir/GardenerQuestion.cpp.obj CMakeFiles/..dir/pairsStatisfying.cpp.obj CMakeFiles/..dir/BlackWhiteBlancedTree.cpp.obj CMakeFiles/..dir/MaximalAnd.cpp.obj CMakeFiles/..dir/chatBan.cpp.obj CMakeFiles/..dir/ArrayElemination.cpp.obj CMakeFiles/..dir/DeepDownBelow.cpp.obj CMakeFiles/..dir/BoxFitting.cpp.obj CMakeFiles/..dir/Birthdayparty.cpp.obj CMakeFiles/..dir/turnAndmove.cpp.obj CMakeFiles/..dir/LCMquestion.cpp.obj CMakeFiles/..dir/NumberIntoSequence.cpp.obj CMakeFiles/..dir/ShuffleSort.cpp.obj CMakeFiles/..dir/alwalPuzzle.cpp.obj CMakeFiles/..dir/AntiSudoku.cpp.obj CMakeFiles/..dir/MinimizeDistance.cpp.obj CMakeFiles/..dir/MinimalSwaps.cpp.obj CMakeFiles/..dir/mereArray.cpp.obj CMakeFiles/..dir/kthBeautifulString.cpp.obj CMakeFiles/..dir/DvisibleConfusion.cpp.obj CMakeFiles/..dir/socialDistance.cpp.obj CMakeFiles/..dir/cutRibbion.cpp.obj CMakeFiles/..dir/saveTheCity.cpp.obj CMakeFiles/..dir/CF_Round1024.cpp.obj CMakeFiles/..dir/lrcAndvip.cpp.obj CMakeFiles/..dir/AppleAndBoxes.cpp.obj CMakeFiles/..dir/maximumSubarraySum.cpp.obj CMakeFiles/..dir/spanningTree.cpp.obj CMakeFiles/..dir/spanningTree2.cpp.obj CMakeFiles/..dir/MoveToEnd.cpp.obj CMakeFiles/..dir/ArrayAndGCD.cpp.obj CMakeFiles/..dir/sportsBetting.cpp.obj CMakeFiles/..dir/shashaAndBars.cpp.obj CMakeFiles/..dir/DissaperPermutation.cpp.obj CMakeFiles/..dir/unPleasentStrings.cpp.obj CMakeFiles/..dir/TwoRoundDances.cpp.obj CMakeFiles/..dir/cokkie.cpp.obj CMakeFiles/..dir/binaryTypeWriter.cpp.obj CMakeFiles/..dir/sortTheArray.cpp.obj CMakeFiles/..dir/pokiemonArmy.cpp.obj CMakeFiles/..dir/polygon.cpp.obj CMakeFiles/..dir/plusAndMInuses.cpp.obj CMakeFiles/..dir/negtivePrefixes.cpp.obj CMakeFiles/..dir/IQtest.cpp.obj CMakeFiles/..dir/viciousLabyrinth.cpp.obj CMakeFiles/..dir/ArrayGame.cpp.obj CMakeFiles/..dir/costOfArray.cpp.obj CMakeFiles/..dir/Contest1025.cpp.obj CMakeFiles/..dir/JumpingThroughSegments.cpp.obj CMakeFiles/..dir/makeThisRound.cpp.obj CMakeFiles/..dir/scheduleManagement.cpp.obj CMakeFiles/..dir/AddModTen.cpp.obj CMakeFiles/..dir/setOfStrangers.cpp.obj CMakeFiles/..dir/floorOrceil.cpp.obj CMakeFiles/..dir/LimitedRepainting.cpp.obj CMakeFiles/..dir/removeTheEnds.cpp.obj CMakeFiles/..dir/RemoveExactly2.cpp.obj CMakeFiles/..dir/palindromeSunsequence.cpp.obj CMakeFiles/..dir/sumOnSegments.cpp.obj CMakeFiles/..dir/distinctRepresentation.cpp.obj CMakeFiles/..dir/BracketColoring.cpp.obj CMakeFiles/..dir/IvaAndPav.cpp.obj CMakeFiles/..dir/HossamAndFriends.cpp.obj CMakeFiles/..dir/DrawTrees.cpp.obj CMakeFiles/..dir/Reginols.cpp.obj CMakeFiles/..dir/AndSequences.cpp.obj CMakeFiles/..dir/DroneGame.cpp.obj CMakeFiles/..dir/BallInBernland.cpp.obj CMakeFiles/..dir/ratingDrop.cpp.obj CMakeFiles/..dir/zeroRemainderArray.cpp.obj CMakeFiles/..dir/oracAndModels.cpp.obj CMakeFiles/..dir/TheNumberOfProducts.cpp.obj CMakeFiles/..dir/journeyPlanning.cpp.obj CMakeFiles/..dir/BasketBallExcercise.cpp.obj CMakeFiles/..dir/candyBox.cpp.obj CMakeFiles/..dir/weirdSum.cpp.obj CMakeFiles/..dir/beautifulTriplePairs.cpp.obj CMakeFiles/..dir/fortuneTelling.cpp.obj CMakeFiles/..dir/sheeps.cpp.obj CMakeFiles/..dir/GroupingIncreases.cpp.obj CMakeFiles/..dir/Dances.cpp.obj CMakeFiles/..dir/AnnaAndvalentinesGift.cpp.obj CMakeFiles/..dir/DancesHard.cpp.obj CMakeFiles/..dir/MeximumArray.cpp.obj CMakeFiles/..dir/Round1028.cpp.obj CMakeFiles/..dir/ComeALittleCloser.cpp.obj CMakeFiles/..dir/PhenoixAndBeauty.cpp.obj CMakeFiles/..dir/SubsequencesHate.cpp.obj CMakeFiles/..dir/rotatingMatching.cpp.obj CMakeFiles/..dir/mochaAndDiana.cpp.obj CMakeFiles/..dir/webOfLies.cpp.obj CMakeFiles/..dir/swapsII.cpp.obj CMakeFiles/..dir/NumberGame.cpp.obj CMakeFiles/..dir/AccidentalVictory.cpp.obj CMakeFiles/..dir/NotAssigning.cpp.obj CMakeFiles/..dir/ProductiveMeeting.cpp.obj CMakeFiles/..dir/AvoidPrimes.cpp.obj CMakeFiles/..dir/UnstableString.cpp.obj CMakeFiles/..dir/FindTheArray.cpp.obj CMakeFiles/..dir/pheonixAndTowers.cpp.obj CMakeFiles/..dir/PalindromeColoring.cpp.obj CMakeFiles/..dir/wonderfullColoring.cpp.obj CMakeFiles/..dir/epicTransformation.cpp.obj CMakeFiles/..dir/IHate111.cpp.obj CMakeFiles/..dir/DominantCharecter.cpp.obj CMakeFiles/..dir/ElementExtermination.cpp.obj CMakeFiles/..dir/Team.cpp.obj CMakeFiles/..dir/kefkaAndCats.cpp.obj CMakeFiles/..dir/flowers.cpp.obj CMakeFiles/..dir/Workout.cpp.obj CMakeFiles/..dir/WhereIsPizza.cpp.obj CMakeFiles/..dir/EqualValues.cpp.obj CMakeFiles/..dir/Retailation.cpp.obj CMakeFiles/..dir/LongtailHedgehog.cpp.obj CMakeFiles/..dir/KireiAttackstheEstate.cpp.obj CMakeFiles/..dir/CCStarters190.cpp.obj CMakeFiles/..dir/contest1030.cpp.obj CMakeFiles/..dir/SegmentTreesLC.cpp.obj CMakeFiles/..dir/EdgyTrees.cpp.obj CMakeFiles/..dir/ZeroArray.cpp.obj CMakeFiles/..dir/balancedBitstring.cpp.obj CMakeFiles/..dir/PatheticMexs.cpp.obj CMakeFiles/..dir/ZeroQuantity.cpp.obj CMakeFiles/..dir/KcompleteWord.cpp.obj CMakeFiles/..dir/poweredAddition.cpp.obj CMakeFiles/..dir/AppleTreeTraversing.cpp.obj CMakeFiles/..dir/kAmazingNumber.cpp.obj CMakeFiles/..dir/mortalCombatTower.cpp.obj CMakeFiles/..dir/LabourOfHercules.cpp.obj CMakeFiles/..dir/EasternExhibition.cpp.obj CMakeFiles/..dir/AgagaXOR.cpp.obj CMakeFiles/..dir/LineEmpire.cpp.obj CMakeFiles/..dir/factorialAndPowersOfTwo.cpp.obj CMakeFiles/..dir/contestCC191.cpp.obj CMakeFiles/..dir/PalindromeBasis.cpp.obj CMakeFiles/..dir/controllers.cpp.obj CMakeFiles/..dir/TeaTasting.cpp.obj CMakeFiles/..dir/DataStructureFan.cpp.obj CMakeFiles/..dir/strangeSort.cpp.obj CMakeFiles/..dir/cf1033.cpp.obj CMakeFiles/..dir/GoodString.cpp.obj CMakeFiles/..dir/cfSubsequence.cpp.obj CMakeFiles/..dir/AndMatching.cpp.obj CMakeFiles/..dir/div2Con.cpp.obj CMakeFiles/..dir/maximumWidth.cpp.obj CMakeFiles/..dir/rings.cpp.obj CMakeFiles/..dir/pythogoredTriplets.cpp.obj CMakeFiles/..dir/IntrestingStory.cpp.obj CMakeFiles/..dir/AirConditioners.cpp.obj CMakeFiles/..dir/dulicAndKenya.cpp.obj CMakeFiles/..dir/contestCC.cpp.obj CMakeFiles/..dir/Backspace.cpp.obj CMakeFiles/..dir/IntegerShops.cpp.obj CMakeFiles/..dir/runningForGold.cpp.obj CMakeFiles/..dir/IntrestingFunction.cpp.obj CMakeFiles/..dir/Potions.cpp.obj CMakeFiles/..dir/PlusAndMultiply.cpp.obj CMakeFiles/..dir/EqualizeTheArray.cpp.obj CMakeFiles/..dir/BfsForGcdChecking.cpp.obj CMakeFiles/..dir/LostSoul.cpp.obj
+build ..exe: CXX_EXECUTABLE_LINKER__.2e_Debug CMakeFiles/..dir/StringMaximizing.cpp.obj CMakeFiles/..dir/main.cpp.obj CMakeFiles/..dir/wierd_Problem.cpp.obj CMakeFiles/..dir/JellyFish.cpp.obj CMakeFiles/..dir/stringsMaking.cpp.obj CMakeFiles/..dir/Quests.cpp.obj CMakeFiles/..dir/CollectingGame.cpp.obj CMakeFiles/..dir/BrMeast.cpp.obj CMakeFiles/..dir/modification.cpp.obj CMakeFiles/..dir/Aquarium.cpp.obj CMakeFiles/..dir/twoDimMinDis.cpp.obj CMakeFiles/..dir/addMargin.cpp.obj CMakeFiles/..dir/tenzingBooks.cpp.obj CMakeFiles/..dir/minimumSkibusAndOhioIMP.cpp.obj CMakeFiles/..dir/rough.cpp.obj CMakeFiles/..dir/maximumSum.cpp.obj CMakeFiles/..dir/LunaticContent.cpp.obj CMakeFiles/..dir/countingOrders.cpp.obj CMakeFiles/..dir/sortTheSubarray.cpp.obj CMakeFiles/..dir/LargestRectArea.cpp.obj CMakeFiles/..dir/SEGMENTTREES.cpp.obj CMakeFiles/..dir/subsequenceAddtion.cpp.obj CMakeFiles/..dir/ROUGHS.cpp.obj CMakeFiles/..dir/PairProgramming.cpp.obj CMakeFiles/..dir/DivisionBy2Permutation.cpp.obj CMakeFiles/..dir/CubeExists.cpp.obj CMakeFiles/..dir/LongestDivisorIntervel.cpp.obj CMakeFiles/..dir/sameDifferences.cpp.obj CMakeFiles/..dir/nonAdjacentMatrix.cpp.obj CMakeFiles/..dir/redBluePattern.cpp.obj CMakeFiles/..dir/negandPos.cpp.obj CMakeFiles/..dir/teleporters.cpp.obj CMakeFiles/..dir/MinPrimestoMakesum.cpp.obj CMakeFiles/..dir/Rough2.cpp.obj CMakeFiles/..dir/groupsTravel.cpp.obj CMakeFiles/..dir/theaterSquare.cpp.obj CMakeFiles/..dir/maxMinSum.cpp.obj CMakeFiles/..dir/transfusion.cpp.obj CMakeFiles/..dir/contestDIV2.cpp.obj CMakeFiles/..dir/triplePrime.cpp.obj CMakeFiles/..dir/tPrime.cpp.obj CMakeFiles/..dir/RowGCD.cpp.obj CMakeFiles/..dir/primeNumber.cpp.obj CMakeFiles/..dir/goodSequence.cpp.obj CMakeFiles/..dir/sequence.cpp.obj CMakeFiles/..dir/DivisionBy2Andpermu.cpp.obj CMakeFiles/..dir/strangeSub.cpp.obj CMakeFiles/..dir/killMonster.cpp.obj CMakeFiles/..dir/mirrorString.cpp.obj CMakeFiles/..dir/paintTheArray.cpp.obj CMakeFiles/..dir/gcdLength.cpp.obj CMakeFiles/..dir/TMT.cpp.obj CMakeFiles/..dir/YetAnotherVardDeck.cpp.obj CMakeFiles/..dir/updateFiles.cpp.obj CMakeFiles/..dir/LongJumps.cpp.obj CMakeFiles/..dir/AllAresame.cpp.obj CMakeFiles/..dir/LIS.cpp.obj CMakeFiles/..dir/elementryParticals.cpp.obj CMakeFiles/..dir/shiftingSort.cpp.obj CMakeFiles/..dir/kalindrome.cpp.obj CMakeFiles/..dir/newColony.cpp.obj CMakeFiles/..dir/specialNumber.cpp.obj CMakeFiles/..dir/partialReplacement.cpp.obj CMakeFiles/..dir/Ksubarrays.cpp.obj CMakeFiles/..dir/dungeon.cpp.obj CMakeFiles/..dir/SumOfcubes.cpp.obj CMakeFiles/..dir/NezzarandLuckyNumber.cpp.obj CMakeFiles/..dir/contestDiv35th.cpp.obj CMakeFiles/..dir/gameOnRanges.cpp.obj CMakeFiles/..dir/pleasantPairs.cpp.obj CMakeFiles/..dir/palindromeGame.cpp.obj CMakeFiles/..dir/stableGroups.cpp.obj CMakeFiles/..dir/MochaHiking.cpp.obj CMakeFiles/..dir/penalty.cpp.obj CMakeFiles/..dir/kLCM.cpp.obj CMakeFiles/..dir/MEXonStrings.cpp.obj CMakeFiles/..dir/bisSumAnd0.cpp.obj CMakeFiles/..dir/poisnedDagger.cpp.obj CMakeFiles/..dir/WrongAddtion.cpp.obj CMakeFiles/..dir/TwoColors.cpp.obj CMakeFiles/..dir/CoruptedArray.cpp.obj CMakeFiles/..dir/cardaConstructions.cpp.obj CMakeFiles/..dir/EvenOddGame.cpp.obj CMakeFiles/..dir/Equalisation.cpp.obj CMakeFiles/..dir/MakeThemEqual.cpp.obj CMakeFiles/..dir/ArrayColoring.cpp.obj CMakeFiles/..dir/DeleteTwoElements.cpp.obj CMakeFiles/..dir/HomoShopping.cpp.obj CMakeFiles/..dir/ABPalindrome.cpp.obj CMakeFiles/..dir/pursuit.cpp.obj CMakeFiles/..dir/kthNonDivisablrByN.cpp.obj CMakeFiles/..dir/MArray.cpp.obj CMakeFiles/..dir/Jumps.cpp.obj CMakeFiles/..dir/FliptheBits.cpp.obj CMakeFiles/..dir/Oddselecetion.cpp.obj CMakeFiles/..dir/AlternatingSubsequence.cpp.obj CMakeFiles/..dir/MakingPalindromeInoneLetter.cpp.obj CMakeFiles/..dir/sequenceTransfer.cpp.obj CMakeFiles/..dir/replaceAndkeepSorted.cpp.obj CMakeFiles/..dir/winePickup.cpp.obj CMakeFiles/..dir/contest1.cpp.obj CMakeFiles/..dir/q800.cpp.obj CMakeFiles/..dir/boatsCompition.cpp.obj CMakeFiles/..dir/xxxx.cpp.obj CMakeFiles/..dir/DistrictConnection.cpp.obj CMakeFiles/..dir/makorItGood.cpp.obj CMakeFiles/..dir/ternarySearch.cpp.obj CMakeFiles/..dir/RockandLever.cpp.obj CMakeFiles/..dir/ternaryXor.cpp.obj CMakeFiles/..dir/RedAndBlue.cpp.obj CMakeFiles/..dir/ThreeActivities.cpp.obj CMakeFiles/..dir/makeAllequal.cpp.obj CMakeFiles/..dir/PlusMinusPermutation.cpp.obj CMakeFiles/..dir/AssemblyViaMinimus.cpp.obj CMakeFiles/..dir/vikaAndBridge.cpp.obj CMakeFiles/..dir/contrastValue.cpp.obj CMakeFiles/..dir/pushingBalls.cpp.obj CMakeFiles/..dir/playingCasino.cpp.obj CMakeFiles/..dir/catCycle.cpp.obj CMakeFiles/..dir/doraAndSearch.cpp.obj CMakeFiles/..dir/Matryoshkas.cpp.obj CMakeFiles/..dir/scuza.cpp.obj CMakeFiles/..dir/removingSmallestMultiplies.cpp.obj CMakeFiles/..dir/friendsAndRestaurant.cpp.obj CMakeFiles/..dir/virus.cpp.obj CMakeFiles/..dir/MirrorGrid.cpp.obj CMakeFiles/..dir/Binarydeque.cpp.obj CMakeFiles/..dir/stongeAgeProblen.cpp.obj CMakeFiles/..dir/Dolcavita.cpp.obj CMakeFiles/..dir/differentialSorting.cpp.obj CMakeFiles/..dir/sameParitySummands.cpp.obj CMakeFiles/..dir/reverseBinaryStrings.cpp.obj CMakeFiles/..dir/AccurateLee.cpp.obj CMakeFiles/..dir/GcdPartition.cpp.obj CMakeFiles/..dir/CoPrime.cpp.obj CMakeFiles/..dir/DemoDogs.cpp.obj CMakeFiles/..dir/DifferenceOfGCDs.cpp.obj CMakeFiles/..dir/AndSorting.cpp.obj CMakeFiles/..dir/AperfectlybalancedString.cpp.obj CMakeFiles/..dir/eatingCadies.cpp.obj CMakeFiles/..dir/SubstractionOperaion.cpp.obj CMakeFiles/..dir/FunWithSubarrays.cpp.obj CMakeFiles/..dir/Restoration.cpp.obj CMakeFiles/..dir/BuildPermutation.cpp.obj CMakeFiles/..dir/Jogging.cpp.obj CMakeFiles/..dir/laterns.cpp.obj CMakeFiles/..dir/YoungExplore.cpp.obj CMakeFiles/..dir/MinimalCost.cpp.obj CMakeFiles/..dir/sortedDifference.cpp.obj CMakeFiles/..dir/seqWithDigits.cpp.obj CMakeFiles/..dir/LevelStatistics.cpp.obj CMakeFiles/..dir/NighbourGrid.cpp.obj CMakeFiles/..dir/waterSlide.cpp.obj CMakeFiles/..dir/graphDiameter.cpp.obj CMakeFiles/..dir/twoLargeBags.cpp.obj CMakeFiles/..dir/commonPrefixes.cpp.obj CMakeFiles/..dir/JhoonyAndHoobies.cpp.obj CMakeFiles/..dir/stairs.cpp.obj CMakeFiles/..dir/NoOfpairs.cpp.obj CMakeFiles/..dir/coinsRows.cpp.obj CMakeFiles/..dir/nastiaAndGoodArray.cpp.obj CMakeFiles/..dir/ArrayAndoperations.cpp.obj CMakeFiles/..dir/divisablePairs.cpp.obj CMakeFiles/..dir/findDifferentOnes.cpp.obj CMakeFiles/..dir/amke2Power.cpp.obj CMakeFiles/..dir/SittingGame.cpp.obj CMakeFiles/..dir/coGrowingSequence.cpp.obj CMakeFiles/..dir/TableFitting.cpp.obj CMakeFiles/..dir/paprikaAndPermutation.cpp.obj CMakeFiles/..dir/BlurredPermutation.cpp.obj CMakeFiles/..dir/slayTheDragon.cpp.obj CMakeFiles/..dir/Inflation.cpp.obj CMakeFiles/..dir/reverseString.cpp.obj CMakeFiles/..dir/TPrimes.cpp.obj CMakeFiles/..dir/ExpensiveNumber.cpp.obj CMakeFiles/..dir/simpleStrings.cpp.obj CMakeFiles/..dir/ProductOfThree.cpp.obj CMakeFiles/..dir/AvgSleepTime.cpp.obj CMakeFiles/..dir/JusteatIt.cpp.obj CMakeFiles/..dir/CanineProperty.cpp.obj CMakeFiles/..dir/SocialDistancesSubsequence.cpp.obj CMakeFiles/..dir/RomanticGlasses.cpp.obj CMakeFiles/..dir/MakeItAlternating.cpp.obj CMakeFiles/..dir/DivideAndEqualize.cpp.obj CMakeFiles/..dir/ScoringSubsequence.cpp.obj CMakeFiles/..dir/snowflakes.cpp.obj CMakeFiles/..dir/StrongVertices.cpp.obj CMakeFiles/..dir/GardenerQuestion.cpp.obj CMakeFiles/..dir/pairsStatisfying.cpp.obj CMakeFiles/..dir/BlackWhiteBlancedTree.cpp.obj CMakeFiles/..dir/MaximalAnd.cpp.obj CMakeFiles/..dir/chatBan.cpp.obj CMakeFiles/..dir/ArrayElemination.cpp.obj CMakeFiles/..dir/DeepDownBelow.cpp.obj CMakeFiles/..dir/BoxFitting.cpp.obj CMakeFiles/..dir/Birthdayparty.cpp.obj CMakeFiles/..dir/turnAndmove.cpp.obj CMakeFiles/..dir/LCMquestion.cpp.obj CMakeFiles/..dir/NumberIntoSequence.cpp.obj CMakeFiles/..dir/ShuffleSort.cpp.obj CMakeFiles/..dir/alwalPuzzle.cpp.obj CMakeFiles/..dir/AntiSudoku.cpp.obj CMakeFiles/..dir/MinimizeDistance.cpp.obj CMakeFiles/..dir/MinimalSwaps.cpp.obj CMakeFiles/..dir/mereArray.cpp.obj CMakeFiles/..dir/kthBeautifulString.cpp.obj CMakeFiles/..dir/DvisibleConfusion.cpp.obj CMakeFiles/..dir/socialDistance.cpp.obj CMakeFiles/..dir/cutRibbion.cpp.obj CMakeFiles/..dir/saveTheCity.cpp.obj CMakeFiles/..dir/CF_Round1024.cpp.obj CMakeFiles/..dir/lrcAndvip.cpp.obj CMakeFiles/..dir/AppleAndBoxes.cpp.obj CMakeFiles/..dir/maximumSubarraySum.cpp.obj CMakeFiles/..dir/spanningTree.cpp.obj CMakeFiles/..dir/spanningTree2.cpp.obj CMakeFiles/..dir/MoveToEnd.cpp.obj CMakeFiles/..dir/ArrayAndGCD.cpp.obj CMakeFiles/..dir/sportsBetting.cpp.obj CMakeFiles/..dir/shashaAndBars.cpp.obj CMakeFiles/..dir/DissaperPermutation.cpp.obj CMakeFiles/..dir/unPleasentStrings.cpp.obj CMakeFiles/..dir/TwoRoundDances.cpp.obj CMakeFiles/..dir/cokkie.cpp.obj CMakeFiles/..dir/binaryTypeWriter.cpp.obj CMakeFiles/..dir/sortTheArray.cpp.obj CMakeFiles/..dir/pokiemonArmy.cpp.obj CMakeFiles/..dir/polygon.cpp.obj CMakeFiles/..dir/plusAndMInuses.cpp.obj CMakeFiles/..dir/negtivePrefixes.cpp.obj CMakeFiles/..dir/IQtest.cpp.obj CMakeFiles/..dir/viciousLabyrinth.cpp.obj CMakeFiles/..dir/ArrayGame.cpp.obj CMakeFiles/..dir/costOfArray.cpp.obj CMakeFiles/..dir/Contest1025.cpp.obj CMakeFiles/..dir/JumpingThroughSegments.cpp.obj CMakeFiles/..dir/makeThisRound.cpp.obj CMakeFiles/..dir/scheduleManagement.cpp.obj CMakeFiles/..dir/AddModTen.cpp.obj CMakeFiles/..dir/setOfStrangers.cpp.obj CMakeFiles/..dir/floorOrceil.cpp.obj CMakeFiles/..dir/LimitedRepainting.cpp.obj CMakeFiles/..dir/removeTheEnds.cpp.obj CMakeFiles/..dir/RemoveExactly2.cpp.obj CMakeFiles/..dir/palindromeSunsequence.cpp.obj CMakeFiles/..dir/sumOnSegments.cpp.obj CMakeFiles/..dir/distinctRepresentation.cpp.obj CMakeFiles/..dir/BracketColoring.cpp.obj CMakeFiles/..dir/IvaAndPav.cpp.obj CMakeFiles/..dir/HossamAndFriends.cpp.obj CMakeFiles/..dir/DrawTrees.cpp.obj CMakeFiles/..dir/Reginols.cpp.obj CMakeFiles/..dir/AndSequences.cpp.obj CMakeFiles/..dir/DroneGame.cpp.obj CMakeFiles/..dir/BallInBernland.cpp.obj CMakeFiles/..dir/ratingDrop.cpp.obj CMakeFiles/..dir/zeroRemainderArray.cpp.obj CMakeFiles/..dir/oracAndModels.cpp.obj CMakeFiles/..dir/TheNumberOfProducts.cpp.obj CMakeFiles/..dir/journeyPlanning.cpp.obj CMakeFiles/..dir/BasketBallExcercise.cpp.obj CMakeFiles/..dir/candyBox.cpp.obj CMakeFiles/..dir/weirdSum.cpp.obj CMakeFiles/..dir/beautifulTriplePairs.cpp.obj CMakeFiles/..dir/fortuneTelling.cpp.obj CMakeFiles/..dir/sheeps.cpp.obj CMakeFiles/..dir/GroupingIncreases.cpp.obj CMakeFiles/..dir/Dances.cpp.obj CMakeFiles/..dir/AnnaAndvalentinesGift.cpp.obj CMakeFiles/..dir/DancesHard.cpp.obj CMakeFiles/..dir/MeximumArray.cpp.obj CMakeFiles/..dir/Round1028.cpp.obj CMakeFiles/..dir/ComeALittleCloser.cpp.obj CMakeFiles/..dir/PhenoixAndBeauty.cpp.obj CMakeFiles/..dir/SubsequencesHate.cpp.obj CMakeFiles/..dir/rotatingMatching.cpp.obj CMakeFiles/..dir/mochaAndDiana.cpp.obj CMakeFiles/..dir/webOfLies.cpp.obj CMakeFiles/..dir/swapsII.cpp.obj CMakeFiles/..dir/NumberGame.cpp.obj CMakeFiles/..dir/AccidentalVictory.cpp.obj CMakeFiles/..dir/NotAssigning.cpp.obj CMakeFiles/..dir/ProductiveMeeting.cpp.obj CMakeFiles/..dir/AvoidPrimes.cpp.obj CMakeFiles/..dir/UnstableString.cpp.obj CMakeFiles/..dir/FindTheArray.cpp.obj CMakeFiles/..dir/pheonixAndTowers.cpp.obj CMakeFiles/..dir/PalindromeColoring.cpp.obj CMakeFiles/..dir/wonderfullColoring.cpp.obj CMakeFiles/..dir/epicTransformation.cpp.obj CMakeFiles/..dir/IHate111.cpp.obj CMakeFiles/..dir/DominantCharecter.cpp.obj CMakeFiles/..dir/ElementExtermination.cpp.obj CMakeFiles/..dir/Team.cpp.obj CMakeFiles/..dir/kefkaAndCats.cpp.obj CMakeFiles/..dir/flowers.cpp.obj CMakeFiles/..dir/Workout.cpp.obj CMakeFiles/..dir/WhereIsPizza.cpp.obj CMakeFiles/..dir/EqualValues.cpp.obj CMakeFiles/..dir/Retailation.cpp.obj CMakeFiles/..dir/LongtailHedgehog.cpp.obj CMakeFiles/..dir/KireiAttackstheEstate.cpp.obj CMakeFiles/..dir/CCStarters190.cpp.obj CMakeFiles/..dir/contest1030.cpp.obj CMakeFiles/..dir/SegmentTreesLC.cpp.obj CMakeFiles/..dir/EdgyTrees.cpp.obj CMakeFiles/..dir/ZeroArray.cpp.obj CMakeFiles/..dir/balancedBitstring.cpp.obj CMakeFiles/..dir/PatheticMexs.cpp.obj CMakeFiles/..dir/ZeroQuantity.cpp.obj CMakeFiles/..dir/KcompleteWord.cpp.obj CMakeFiles/..dir/poweredAddition.cpp.obj CMakeFiles/..dir/AppleTreeTraversing.cpp.obj CMakeFiles/..dir/kAmazingNumber.cpp.obj CMakeFiles/..dir/mortalCombatTower.cpp.obj CMakeFiles/..dir/LabourOfHercules.cpp.obj CMakeFiles/..dir/EasternExhibition.cpp.obj CMakeFiles/..dir/AgagaXOR.cpp.obj CMakeFiles/..dir/LineEmpire.cpp.obj CMakeFiles/..dir/factorialAndPowersOfTwo.cpp.obj CMakeFiles/..dir/contestCC191.cpp.obj CMakeFiles/..dir/PalindromeBasis.cpp.obj CMakeFiles/..dir/controllers.cpp.obj CMakeFiles/..dir/TeaTasting.cpp.obj CMakeFiles/..dir/DataStructureFan.cpp.obj CMakeFiles/..dir/strangeSort.cpp.obj CMakeFiles/..dir/cf1033.cpp.obj CMakeFiles/..dir/GoodString.cpp.obj CMakeFiles/..dir/cfSubsequence.cpp.obj CMakeFiles/..dir/AndMatching.cpp.obj CMakeFiles/..dir/div2Con.cpp.obj CMakeFiles/..dir/maximumWidth.cpp.obj CMakeFiles/..dir/rings.cpp.obj CMakeFiles/..dir/pythogoredTriplets.cpp.obj CMakeFiles/..dir/IntrestingStory.cpp.obj CMakeFiles/..dir/AirConditioners.cpp.obj CMakeFiles/..dir/dulicAndKenya.cpp.obj CMakeFiles/..dir/contestCC.cpp.obj CMakeFiles/..dir/Backspace.cpp.obj CMakeFiles/..dir/IntegerShops.cpp.obj CMakeFiles/..dir/runningForGold.cpp.obj CMakeFiles/..dir/IntrestingFunction.cpp.obj CMakeFiles/..dir/Potions.cpp.obj CMakeFiles/..dir/PlusAndMultiply.cpp.obj CMakeFiles/..dir/EqualizeTheArray.cpp.obj CMakeFiles/..dir/BfsForGcdChecking.cpp.obj CMakeFiles/..dir/LostSoul.cpp.obj CMakeFiles/..dir/FewerBatteries.cpp.obj CMakeFiles/..dir/SphereTransmission.cpp.obj CMakeFiles/..dir/Math.cpp.obj CMakeFiles/..dir/MeaningLessOperation.cpp.obj CMakeFiles/..dir/floorAndMod.cpp.obj CMakeFiles/..dir/vasyaAndpateyaGame.cpp.obj CMakeFiles/..dir/contestDIV3.cpp.obj CMakeFiles/..dir/InteractiveProblem.cpp.obj CMakeFiles/..dir/contestCC1.cpp.obj CMakeFiles/..dir/chocolateBunnyInteractive.cpp.obj CMakeFiles/..dir/GuessingTheGreatest.cpp.obj CMakeFiles/..dir/ArrayWalk.cpp.obj CMakeFiles/..dir/GoodSubarrays.cpp.obj CMakeFiles/..dir/HackingNumbers.cpp.obj CMakeFiles/..dir/AdvertisingAgency.cpp.obj CMakeFiles/..dir/planarReflections.cpp.obj CMakeFiles/..dir/ContestDIV2_1.cpp.obj CMakeFiles/..dir/strangeTest.cpp.obj CMakeFiles/..dir/consecutiveSubsequence.cpp.obj CMakeFiles/..dir/tripToOlympiad.cpp.obj CMakeFiles/..dir/BitWiseOper.cpp.obj CMakeFiles/..dir/Bewitching.cpp.obj CMakeFiles/..dir/ParsasTrees.cpp.obj CMakeFiles/..dir/InfectedTree.cpp.obj CMakeFiles/..dir/GardeningFrnds.cpp.obj CMakeFiles/..dir/TreeJumps.cpp.obj CMakeFiles/..dir/eraseAndExtend.cpp.obj CMakeFiles/..dir/DeletingDivisors.cpp.obj CMakeFiles/..dir/Starters194.cpp.obj CMakeFiles/..dir/SayNoTopalindromes.cpp.obj CMakeFiles/..dir/makeThemEquall.cpp.obj CMakeFiles/..dir/Starters195.cpp.obj CMakeFiles/..dir/div3Cf1037.cpp.obj CMakeFiles/..dir/MaxProduct.cpp.obj CMakeFiles/..dir/fixedPointGuessing.cpp.obj CMakeFiles/..dir/MinimumTies.cpp.obj CMakeFiles/..dir/omkarAndbaseBall.cpp.obj CMakeFiles/..dir/juryMeeting.cpp.obj CMakeFiles/..dir/maximizeManhantten.cpp.obj CMakeFiles/..dir/codechefDiv2CT.cpp.obj CMakeFiles/..dir/xeniaAndBitOperations.cpp.obj CMakeFiles/..dir/serjaAndBrackets.cpp.obj CMakeFiles/..dir/simplrPermutation.cpp.obj CMakeFiles/..dir/TREEvalidateBS.cpp.obj CMakeFiles/..dir/PheonixAndSocks.cpp.obj CMakeFiles/..dir/MinimumGridPath.cpp.obj CMakeFiles/..dir/ResotingPermutation.cpp.obj CMakeFiles/..dir/DecreseTheSumOfDigits.cpp.obj CMakeFiles/..dir/BinaryStringTosubsequence.cpp.obj CMakeFiles/..dir/StayOnMirror.cpp.obj CMakeFiles/..dir/Inversions.cpp.obj CMakeFiles/..dir/SumOfLDS.cpp.obj CMakeFiles/..dir/PashmakAndparmidas.cpp.obj CMakeFiles/..dir/InterestingArray.cpp.obj CMakeFiles/..dir/Arcology.cpp.obj CMakeFiles/..dir/YouSoaredAfar.cpp.obj CMakeFiles/..dir/Split.cpp.obj CMakeFiles/..dir/DistanceInTrees.cpp.obj CMakeFiles/..dir/splitIntosets.cpp.obj CMakeFiles/..dir/Subordinates.cpp.obj CMakeFiles/..dir/Treematching.cpp.obj CMakeFiles/..dir/SponserUrproblems.cpp.obj CMakeFiles/..dir/Humaniod.cpp.obj CMakeFiles/..dir/Div3Contest4.cpp.obj CMakeFiles/..dir/BitOperations.cpp.obj CMakeFiles/..dir/DimaAndBadXOR.cpp.obj CMakeFiles/..dir/contest199CC.cpp.obj CMakeFiles/..dir/SubsetMultiplication.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\..dir
@@ -2159,14 +2567,8 @@ build ..exe: CXX_EXECUTABLE_LINKER__.2e_Debug CMakeFiles/..dir/StringMaximizing.
 
 build cmake_object_order_depends_target_varsh: phony || CMakeFiles/varsh.dir
 
-build CMakeFiles/varsh.dir/BfsForGcdChecking.cpp.obj: CXX_COMPILER__varsh_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/BfsForGcdChecking.cpp || cmake_object_order_depends_target_varsh
-  DEP_FILE = CMakeFiles\varsh.dir\BfsForGcdChecking.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\varsh.dir
-  OBJECT_FILE_DIR = CMakeFiles\varsh.dir
-
-build CMakeFiles/varsh.dir/LostSoul.cpp.obj: CXX_COMPILER__varsh_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/LostSoul.cpp || cmake_object_order_depends_target_varsh
-  DEP_FILE = CMakeFiles\varsh.dir\LostSoul.cpp.obj.d
+build CMakeFiles/varsh.dir/SubsetMultiplication.cpp.obj: CXX_COMPILER__varsh_unscanned_Debug C$:/Users/bvars/CLionProjects/codeForces/SubsetMultiplication.cpp || cmake_object_order_depends_target_varsh
+  DEP_FILE = CMakeFiles\varsh.dir\SubsetMultiplication.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\varsh.dir
   OBJECT_FILE_DIR = CMakeFiles\varsh.dir
@@ -2179,7 +2581,7 @@ build CMakeFiles/varsh.dir/LostSoul.cpp.obj: CXX_COMPILER__varsh_unscanned_Debug
 #############################################
 # Link the executable varsh.exe
 
-build varsh.exe: CXX_EXECUTABLE_LINKER__varsh_Debug CMakeFiles/varsh.dir/BfsForGcdChecking.cpp.obj CMakeFiles/varsh.dir/LostSoul.cpp.obj
+build varsh.exe: CXX_EXECUTABLE_LINKER__varsh_Debug CMakeFiles/varsh.dir/SubsetMultiplication.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\varsh.dir
