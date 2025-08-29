@@ -1,3 +1,78 @@
-//
-// Created by bvars on 28-08-2025.
-//
+#include <bits/stdc++.h>
+using namespace std;
+
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
+using namespace __gnu_pbds;
+template<class T> using oset = tree<T, null_type, less<T>, rb_tree_tag,tree_order_statistics_node_update>;
+
+#define int long long
+#define fast_io() ios_base::sync_with_stdio(false); cin.tie(NULL);cout.tie(NULL);
+#define vi vector<int>
+#define pii pair<int, int>
+#define all(v) (v).begin(), (v).end()
+#define rep(i, a, b) for (int i = a; i < b; i++)
+#define endl '\n'
+
+int MOD = 998244353;
+
+struct custom_hash{
+    static uint64_t splitmix64(uint64_t x) {
+        x += 0x9e3779b97f4a7c15;
+        x = (x ^ (x >> 30)) * 0xbf58476d1ce4e5b9;
+        x = (x ^ (x >> 27)) * 0x94d049bb133111eb;
+        return x ^ (x >> 31);
+    }
+    size_t operator()(uint64_t x) const {
+        static const uint64_t FIXED_RANDOM = chrono::steady_clock::now().time_since_epoch().count();
+        return splitmix64(x + FIXED_RANDOM);
+    }
+};
+
+void setIO(){
+    fast_io();
+#ifndef ONLINE_JUDGE
+    freopen("input.txt","r",stdin);
+    freopen("output.txt","w",stdout);
+#endif
+}
+
+vi x,pre;
+double f(double coordinate){
+    double ans = 0.0;
+    int n = (int)x.size();
+    for (int i = 0; i < n; ++i) {
+        ans = max(ans,(double)pre[i]+abs(coordinate - x[i]));
+    }
+    return ans;
+}
+
+double ternary_search(double l, double r) {
+    for (int i = 0; i < 200; i++) {
+        double mid1 = l + (r-l)/3.0;
+        double mid2 = r - (r-l)/3.0;
+        if (f(mid1) < f(mid2))
+            r = mid2;
+        else
+            l = mid1;
+    }
+    return (l+r)/2;
+}
+
+void solve(){
+    int n;cin >> n;
+    vi a(n);rep(i,0,n) cin >> a[i];
+    vi ti(n);rep(i,0,n) cin >> ti[i];
+    x = a;
+    pre = ti;
+    cout << fixed << setprecision(6) << ternary_search(0, 1e8) << "\n";
+}
+
+int32_t main() {
+    fast_io();
+    setIO();
+    int t;
+    cin >> t;
+    while (t--) solve();
+}
+

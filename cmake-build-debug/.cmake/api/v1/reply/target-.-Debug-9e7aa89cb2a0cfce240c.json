@@ -466,7 +466,14 @@
 				412,
 				413,
 				414,
-				415
+				415,
+				416,
+				417,
+				418,
+				419,
+				420,
+				421,
+				422
 			]
 		}
 	],
@@ -917,7 +924,14 @@
 				412,
 				413,
 				414,
-				415
+				415,
+				416,
+				417,
+				418,
+				419,
+				420,
+				421,
+				422
 			]
 		},
 		{
@@ -3423,6 +3437,48 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "SubsetMultiplication.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "TheNether.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "GraphsAndGraph.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "EvenLarger.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "gamesHamid.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "MeetingOnTheLine.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "PenchickAndTreesJumps.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "SendingaSequence.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

@@ -2,13 +2,13 @@
 3	1276	7624190566762753	CMakeFiles/codeForces.dir/contestDIV2.cpp.obj	cf5578049106435b
 2	394	7593185185939888	CMakeFiles/codeForces.dir/StringMaximizing.cpp.obj	8172b47398f22e8f
 15	300	7593185184988293	CMakeFiles/codeForces.dir/main.cpp.obj	d1ab48a8f58e16e1
-1	317	7775790751920397	build.ninja	afffd0a5a4922855
-2	385	7609957219729274	CMakeFiles/codeForces.dir/maximumSum.cpp.obj	45d2f4026de944ee
-1273	1577	7624439945466204	codeForces.exe	21a8300f90ac486f
+1	317	7781436371370800	build.ninja	afffd0a5a4922855
 4	1480	7700681863932858	CMakeFiles/varshith2.dir/PowerSort.cpp.obj	94f4b2b65b23e8b9
 3	1367	7723650437236385	CMakeFiles/varsh.dir/GoodString.cpp.obj	c964d2215d071e39
-6	1447	7679606173032390	CMakeFiles/questions.dir/JusteatIt.cpp.obj	1e2008573db6c03
+1273	1577	7624439945466204	codeForces.exe	21a8300f90ac486f
+2	385	7609957219729274	CMakeFiles/codeForces.dir/maximumSum.cpp.obj	45d2f4026de944ee
 2	1277	7623654937531337	CMakeFiles/codeForces.dir/transfusion.cpp.obj	f59d51a2f81c26a5
+6	1447	7679606173032390	CMakeFiles/questions.dir/JusteatIt.cpp.obj	1e2008573db6c03
 3	1374	7622649631110438	CMakeFiles/codeForces.dir/groupsTravel.cpp.obj	866dc38bbb58da7e
 2	324	7605530192567042	CMakeFiles/codeForces.dir/stringsMaking.cpp.obj	310d8d1a1ab36dbe
 2	1252	7625155894515650	CMakeFiles/Questions.dir/goodSequence.cpp.obj	87099111f2e94ef1
@@ -86,6 +86,7 @@
 2	1478	7619426518242484	CMakeFiles/codeForces.dir/redBluePattern.cpp.obj	e5ea24e74d2af2e6
 3	1242	7620289515748091	CMakeFiles/codeForces.dir/teleporters.cpp.obj	f4620060915ee989
 0	340	7625158974526360	CMakeFiles/Current.dir/main.cpp.obj	630f8e244d6c7483
+1	1428	7779807544692417	CMakeFiles/varsh.dir/EvenLarger.cpp.obj	36985917c8e477e
 0	348	7624361137201979	CMakeFiles/codeForces.dir/triplePrime.cpp.obj	85d3fe45d3885fd7
 2	1227	7624487286399568	CMakeFiles/rowGCD.dir/RowGCD.cpp.obj	df6b7824209c368d
 3	1695	7685084476947402	CMakeFiles/coo.dir/MinimalSwaps.cpp.obj	4677fc6c1cec38f7
@@ -210,6 +211,7 @@
 5	1473	7670064847325299	CMakeFiles/questions.dir/eatingCadies.cpp.obj	464581d7bebb4d0
 1447	1597	7679606174468660	questions.exe	49d199a49d86c2ef
 0	1572	7670119090256736	CMakeFiles/questions.dir/SubstractionOperaion.cpp.obj	5f559b71e3a6bb56
+4	1337	7780202078657913	CMakeFiles/varsh.dir/gamesHamid.cpp.obj	6c1b51b5b8e5ca07
 3	1440	7670324493798623	CMakeFiles/questions.dir/FunWithSubarrays.cpp.obj	64818712f04ed4b2
 4	1276	7697060772921232	CMakeFiles/varshith2.dir/IvaAndPav.cpp.obj	9c2e73c76fc6a72c
 3	1240	7670421617372768	CMakeFiles/questions.dir/Restoration.cpp.obj	e254e917c2a32a6d
@@ -230,6 +232,7 @@
 4	1362	7730073912786064	CMakeFiles/varsh.dir/floorAndMod.cpp.obj	12a93185aac23fb6
 4	1221	7675243255262961	CMakeFiles/questions.dir/nastiaAndGoodArray.cpp.obj	aa1ee9ae12d26b52
 3	1364	7675307501314939	CMakeFiles/questions.dir/ArrayAndoperations.cpp.obj	40de622f756577fe
+1	2045	7779760856053990	CMakeFiles/varsh.dir/GraphsAndGraph.cpp.obj	e01082e8a4323536
 4	1588	7675452243682743	CMakeFiles/questions.dir/divisablePairs.cpp.obj	f448bddb35b14dc2
 3	1430	7675551082990704	CMakeFiles/questions.dir/findDifferentOnes.cpp.obj	5953e7675a03ee90
 4	1412	7675989777214622	CMakeFiles/questions.dir/amke2Power.cpp.obj	714f8e4f4c1847c3
@@ -330,7 +333,7 @@
 0	1346	7693443762974754	CMakeFiles/Question1.dir/makeThisRound.cpp.obj	8370a95c4f32d889
 2	1634	7696857146071816	CMakeFiles/varshith2.dir/BracketColoring.cpp.obj	4573adc7f45b52bf
 1395	1727	7693722254359245	Question1.exe	d3e539efc41a3c14
-1526	1757	7769639090050771	varsh.exe	f62609a70d4396a
+1581	1801	7781405393240765	varsh.exe	ff0b016c5c9a181c
 0	1249	7694150368636664	CMakeFiles/varshith1.dir/AddModTen.cpp.obj	34188e3463e68562
 0	1380	7694432862507246	CMakeFiles/varsith2.dir/floorOrceil.cpp.obj	6dbf17dcabd29b8c
 1487	1690	7723560111541345	varshith1.exe	b2a5446af7937448
@@ -438,4 +441,5 @@
 38	1387	7760294700216555	CMakeFiles/varsh.dir/Arcology.cpp.obj	ab3bf5d5f3fc0659
 4	1326	7760742179552312	CMakeFiles/varsh.dir/YouSoaredAfar.cpp.obj	d3638b5a72738df0
 1	2074	7775792270359566	CMakeFiles/varsh.dir/SubsetMultiplication.cpp.obj	ff36e2b32b53a13f
-2078	2296	7775792272542868	varsh.exe	69e5e26405cf373a
+4	1632	7780812542036925	CMakeFiles/varsh.dir/MeetingOnTheLine.cpp.obj	f997312005e05f11
+4	1580	7781405391076575	CMakeFiles/varsh.dir/PenchickAndTreesJumps.cpp.obj	9a2708fa44375083

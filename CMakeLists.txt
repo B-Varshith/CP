@@ -413,10 +413,19 @@ add_executable(. StringMaximizing.cpp main.cpp "wierd Problem.cpp"
         DimaAndBadXOR.cpp
         contest199CC.cpp
         SubsetMultiplication.cpp
+        TheNether.cpp
+        GraphsAndGraph.cpp
+        EvenLarger.cpp
+        gamesHamid.cpp
+        MeetingOnTheLine.cpp
+        PenchickAndTreesJumps.cpp
+        SendingaSequence.cpp
 )
 
 add_executable(varsh
 #        SponserUrproblems.cpp
 #        DimaAndBadXOR.cpp
-        SubsetMultiplication.cpp
+#        SubsetMultiplication.cpp
+#        gamesHamid.cpp
+        SendingaSequence.cpp
 )

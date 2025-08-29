@@ -38,21 +38,6 @@ void setIO(){
 }
 
 void solve(){
-    int n;cin >> n;
-    vi a(n);rep(i,0,n)cin >> a[i];
-    bool ok = true;
-    for (int i = 1; i < n; ++i) {
-        if (a[i]%a[i-1] != 0){
-            ok = false;
-            break;
-        }
-    }
-
-    if (ok){
-        cout << 69 << endl;
-        return;
-    }
-
 
 }
 
