@@ -11,7 +11,7 @@ using namespace std;
 
 int MOD = 998244353;
 int inf = 1e18;
-int dp[60][60][60];
+void *dp;
 
 void setIO(){
     fast_io();

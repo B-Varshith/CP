@@ -25,7 +25,7 @@ void setIO(){
 }
 
 int n,k;
-int dp[1002][1002][2];
+void *dp;
 
 int computeAns(int plateNo,int mass,int direction){
     if (plateNo <= 0 || plateNo > n || mass == 1) return 0;

@@ -25,7 +25,7 @@ void setIO(){
 }
 
 unordered_map<int,vi> adj;
-int dp[200001][2];
+void *dp;
 
 void dfs(int src, int par) {
     vector<int> children;

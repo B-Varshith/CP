@@ -8,7 +8,7 @@ using ld = long double;
 int n;
 vector<ll> v;
 vector<vector<int>> adj;
-vector<vector<ll>> dp;
+void *dp;
 
 void dfs(int x, int p) {
     dp[x][0] = -v[x];

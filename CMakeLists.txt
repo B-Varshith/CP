@@ -420,12 +420,79 @@ add_executable(. StringMaximizing.cpp main.cpp "wierd Problem.cpp"
         MeetingOnTheLine.cpp
         PenchickAndTreesJumps.cpp
         SendingaSequence.cpp
+        AgainstTheDifferemce.cpp
+        FindTheChampion.cpp
+        PecularMoviePrefrence.cpp
+        SleepingSchdule.cpp
+        PythonIndentation.cpp
+        Multiplicity.cpp
+        IntrestingSequence.cpp
+        SpecialPermutation.cpp
+        GardenerAndTheTree.cpp
+        ModerateMOdularMode.cpp
+        SecretSanta.cpp
+        GamesOnLeaves.cpp
+        MinCostString.cpp
+        KeshIsThrowingAparty.cpp
+        VupsenPupsenAndZero.cpp
+        AddOne.cpp
+        PriceFixed.cpp
+        BalancedStoneHeaps.cpp
+        Div2_1049.cpp
+        StarngeFunction.cpp
+        StrangeFunction.cpp
+        MinimumGridPathCSES.cpp
+        BreachOfFaith.cpp
+        PrefixSuffixRecontruction.cpp
+        ThreeStrings.cpp
+        MulticolouredMarbles.cpp
+        ReallyBigNumbers.cpp
+        InversionValueOfaPermutation.cpp
+        CompressionAndExpansion.cpp
+        MaximumSumOfProducts.cpp
+        MadInteractiveProblem.cpp
+        sequencePairWeight.cpp
+        SetOrDecrease.cpp
+        FarmersJohnsLastWish.cpp
+        EqualFrequncies.cpp
+        flexibleStrings.cpp
+        TriangleColoring.cpp
+        shockingArrangement.cpp
+        coedforcesRound1061.cpp
+        HitsDifferent.cpp
+        Boxers.cpp
+        TreeDP.cpp
+        loyalty.cpp
+        RoundDance.cpp
+        TrackingSegments.cpp
+        DecreasingString.cpp
+        TechOdessyCode.cpp
+        LinovaAndKingdom.cpp
+        CompleteMST.cpp
+        ArrayDeletionGame.cpp
+        Monapati.cpp
+        palindromeFlipping.cpp
+        QuotientAndRemainder.cpp
+        BillionPlayerGame.cpp
+        RieRayorTrees.cpp
+        TiagasCarryChains.cpp
+        DIV1070.cpp
 )
 
-add_executable(varsh
-#        SponserUrproblems.cpp
-#        DimaAndBadXOR.cpp
-#        SubsetMultiplication.cpp
-#        gamesHamid.cpp
-        SendingaSequence.cpp
+add_executable(curr
+        #        SponserUrproblems.cpp
+        #        DimaAndBadXOR.cpp
+        #        SubsetMultiplication.cpp
+        #        gamesHamid.cpp
+        #        Multiplicity.cpp
+        #        MinCostString.cpp
+        #        StrangeFunction.cpp
+        #        MinimumGridPathCSES.cpp
+        #        BreachOfFaith.cpp
+        #        PrefixSuffixRecontruction.cpp
+#        EqualFrequncies.cpp
+#        TreeDP.cpp
+#        TiagasCarryChains.cpp
+        DIV1070.cpp
 )
+

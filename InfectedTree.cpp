@@ -25,7 +25,8 @@ void setIO(){
 }
 
 vector<vector<int>> adj;
-vi cnt,dp;
+vi cnt;
+void *dp;
 
 void fillDp(int node,int par){
     cnt[node] = 1;

@@ -41,15 +41,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : ".::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-.-Debug-9e7aa89cb2a0cfce240c.json",
+					"jsonFile" : "target-.-Debug-f8b4fb7bbc840243fdea.json",
 					"name" : ".",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "varsh::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-varsh-Debug-b950f5953394c05edf76.json",
-					"name" : "varsh",
+					"id" : "curr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-curr-Debug-d2e7569e9a038e851969.json",
+					"name" : "curr",
 					"projectIndex" : 0
 				}
 			]

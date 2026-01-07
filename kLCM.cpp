@@ -1,67 +1,49 @@
 #include <bits/stdc++.h>
-#include "set"
-#include "unordered_map"
-#include "algorithm"
 using namespace std;
 
-#define fast_io() ios_base::sync_with_stdio(false); cin.tie(NULL);
-#define ll long long
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
+using namespace __gnu_pbds;
+template<class T> using oset = tree<T, null_type, less<T>, rb_tree_tag,tree_order_statistics_node_update>;
+
+#define int long long
+#define fast_io() ios_base::sync_with_stdio(false); cin.tie(NULL);cout.tie(NULL);
 #define vi vector<int>
-#define vll vector<ll>
 #define pii pair<int, int>
-#define pll pair<ll, ll>
 #define all(v) (v).begin(), (v).end()
 #define rep(i, a, b) for (int i = a; i < b; i++)
-#define endl '\n';
+#define endl '\n'
 
-ll MOD = 109+7;
+int MOD = 998244353;
 
-ll gcd(ll a, ll b) {
-    if (b == 0) {
-        return a;
+struct custom_hash{
+    static uint64_t splitmix64(uint64_t x) {
+        x += 0x9e3779b97f4a7c15;
+        x = (x ^ (x >> 30)) * 0xbf58476d1ce4e5b9;
+        x = (x ^ (x >> 27)) * 0x94d049bb133111eb;
+        return x ^ (x >> 31);
     }
-    return gcd(b, a % b);
-}
-
-bool isPowerOf2(ll n) {
-    return (n > 0) && ((n & (n - 1)) == 0);
-}
-
-int digits(ll n){
-    int cnt = 0;
-    while (n != 0){
-        n = n/10;
-        cnt++;
+    size_t operator()(uint64_t x) const {
+        static const uint64_t FIXED_RANDOM = chrono::steady_clock::now().time_since_epoch().count();
+        return splitmix64(x + FIXED_RANDOM);
     }
-    return cnt;
-}
+};
 
-ll power(int a,int b){
-    if (b == 0) return 1;
-    ll x  = power(a,b/2);
-    if (b%2 == 0){
-        return x*x;
-    } else{
-        return x*x*a;
-    }
-}
-
-ll powermod(ll x, ll y, ll p) {
-    ll res = 1;
-    x = x % p;
-    if (x == 0) return 0;
-    while (y > 0) {
-        if (y & 1)
-            res = (res * x) % p;
-        y = y >> 1;
-        x = (x * x) % p;
-    }
-    return res;
+void setIO(){
+    fast_io();
+#ifndef ONLINE_JUDGE
+    freopen("input.txt","r",stdin);
+    freopen("output.txt","w",stdout);
+#endif
 }
 
 void solve() {
-    ll n,k;
+    int n,k;
     cin >> n >> k;
+    while (k > 3){
+        n--,k--;
+        cout << 1 << " ";
+    }
     if (n&1){
         cout << 1 << " " << (n-1)/2 << " " << (n-1)/2 << endl;
     } else{
@@ -73,12 +55,11 @@ void solve() {
     }
 }
 
-int main() {
+int32_t main() {
     fast_io();
+    setIO();
     int t;
     cin >> t;
-    while (t--) {
-        solve();
-    }
-    return 0;
+    while (t--) solve();
 }
+

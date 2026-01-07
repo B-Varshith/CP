@@ -1,4 +1,4 @@
 C:/Users/bvars/CLionProjects/codeForces/cmake-build-debug/CMakeFiles/..dir
-C:/Users/bvars/CLionProjects/codeForces/cmake-build-debug/CMakeFiles/varsh.dir
+C:/Users/bvars/CLionProjects/codeForces/cmake-build-debug/CMakeFiles/curr.dir
 C:/Users/bvars/CLionProjects/codeForces/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/bvars/CLionProjects/codeForces/cmake-build-debug/CMakeFiles/rebuild_cache.dir

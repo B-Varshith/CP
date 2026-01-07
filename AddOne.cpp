@@ -1,0 +1,67 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#include <ext/pb_ds/assoc_container.hpp>
+#include <ext/pb_ds/tree_policy.hpp>
+using namespace __gnu_pbds;
+template<class T> using oset = tree<T, null_type, less<T>, rb_tree_tag,tree_order_statistics_node_update>;
+
+#define int long long
+#define fast_io() ios_base::sync_with_stdio(false); cin.tie(NULL);cout.tie(NULL);
+#define vi vector<int>
+#define pii pair<int, int>
+#define all(v) (v).begin(), (v).end()
+#define rep(i, a, b) for (int i = a; i < b; i++)
+#define endl '\n'
+
+const int MOD = 1e9+7;
+
+struct custom_hash{
+    static uint64_t splitmix64(uint64_t x) {
+        x += 0x9e3779b97f4a7c15;
+        x = (x ^ (x >> 30)) * 0xbf58476d1ce4e5b9;
+        x = (x ^ (x >> 27)) * 0x94d049bb133111eb;
+        return x ^ (x >> 31);
+    }
+    size_t operator()(uint64_t x) const {
+        static const uint64_t FIXED_RANDOM = chrono::steady_clock::now().time_since_epoch().count();
+        return splitmix64(x + FIXED_RANDOM);
+    }
+};
+
+void setIO(){
+    fast_io();
+#ifndef ONLINE_JUDGE
+    freopen("input.txt","r",stdin);
+    freopen("output.txt","w",stdout);
+#endif
+}
+
+void solve(vector<vector<int>> &dp){
+    int n,m; cin >> n >> m;
+
+    int ans = 0;
+    while(n > 0){
+        int digit = n % 10;
+        ans = (ans + dp[digit][m]) % MOD;
+        n /= 10;
+    }
+    cout << ans << endl;
+}
+
+int32_t main() {
+    fast_io();
+    setIO();
+    int t;
+    vector<vector<int>> dp(12, vector<int>(2*1e5+1, 0));
+    for(int d=0; d<10; d++) dp[d][0] = 1;
+    for(int step=1; step<=2*1e5; step++){
+        for(int d=0; d<10; d++){
+            if (d+1 == 10) dp[d][step] = (dp[1][step-1] + dp[0][step-1]) % MOD;
+            else dp[d][step] = dp[d+1][step-1];
+        }
+    }
+    cin >> t;
+    while (t--) solve(dp);
+}
+

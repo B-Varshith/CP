@@ -26,21 +26,21 @@ void setIO(){
 
 void solve(){
     int l,r;cin >> l >> r;
-    int n = r-l+1;
-    vi a(n);rep(i,0,n)cin >> a[i];
-    sort(all(a));
-    vi cnt(18,0);
-    for (int i = 0; i < 18; ++i) {
-        for (int j = 0; j <= r; ++j) {
-            if ((a[j]&(1<<i)) == (1<<i))cnt[i]++;
+    int oper = r-l;
+    int a = l,b = r;
+    for (int i = b; i <= (int)1e7; ++i) {
+        if((i|a) == i){
+            oper = min(oper,i-b+1);
+            break;
         }
     }
-
-    int ans = 0;
-    for (int i = 0; i < 18; ++i) {
-        if (cnt[i] > r+1 - cnt[i])ans += (1<<i);
+    for (int i = a; i <= b; ++i) {
+        if ((i|b) == b){
+            oper = min(oper,i-a+1);
+            break;
+        }
     }
-    cout << ans << endl;
+    cout << oper << endl;
 }
 
 int32_t main() {

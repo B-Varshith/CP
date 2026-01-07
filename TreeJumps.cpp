@@ -25,7 +25,8 @@ void setIO(){
 }
 
 int n;
-vector<int> level,dp;
+vector<int> level;
+void *dp;
 unordered_map<int,vi> adj;
 
 void dfs(int node){
